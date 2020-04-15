@@ -1,0 +1,2 @@
+6a. Solving N-Queens Problem using backtracking
+6b. Find the ordering of tasks from given dependencies
